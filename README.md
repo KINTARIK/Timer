@@ -1,2 +1,3 @@
 # Timer
-Таймер на js, тестовое задание
+Таймер на js
+https://kintarik.github.io/Timer/
